@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Sombra-9213
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Sombra-9213/Sombra-9213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> Eu estou interessado em me tornar um programador  Inovador
+---> Eu estou aprendendo Java
+--->  Em grupo com  outros programadores.
+--->  Eu vou estudar bastante e estudar muito.
