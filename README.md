@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Sombra-9213
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+===> Estudante do Ensino médio.
 
-<!---
-Sombra-9213/Sombra-9213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> Eu estou interessado em me tornar um programador Full Stack
----> Estou aprendendo Java
----> A meta agora é virar um Júnior.
+===> Futuro Devesenvolvedor Júnior.
+
+===> Amante da Tecnologia.
+
+===> Eu gosto de chocolate.
